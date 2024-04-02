@@ -19,4 +19,4 @@ Theory vs practice differs in the case of assumptions, assuming a time complexit
 
 10,000 elements would take roughly 13.3 seconds, $(4(log2(10) = 13.3)$
 
-Factors such as: the data structure not fitting entirely in the cache, an unbalaced data structure such as a tree being skewed to one side, and the actual agorithm implementation can cause differences in expected time complexity and actual time taken to run could be a reason that the 10,000 element list would take 100 second to sort.
+Factors such as: the data structure not fitting entirely in the cache, an unbalanced data structure such as a tree being skewed to one side, and the actual algorithm implementation can cause differences in expected time complexity and actual time taken to run could be a reason that the 10,000 element list would take 100 second to sort.
