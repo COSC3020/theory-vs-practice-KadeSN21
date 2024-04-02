@@ -15,8 +15,8 @@
 
 Add your answers to this markdown file.
 
-Theory vs practice differs in the case of assumptions, assuming a time complexity consists of hardare and operatring systems, as well as an assumption of input, which cause fluxuation in actual real world execution. Theze factors can alter real world run times. 
+Theory vs practice differs in the case of assumptions, assuming a time complexity consists of hardware and operating systems, as well as an assumption of input, which cause fluxuation in actual real world execution. These factors can alter real world run times. 
 
-10,000 elements would take roughly 13.5 seconds, $(4(log2(10) = 13.5)$
+10,000 elements would take roughly 13.3 seconds, $(4(log2(10) = 13.3)$
 
 Factors such as: the data structure not fitting entirely in the cache, an unbalaced data structure such as a tree being skewed to one side, and the actual agorithm implementation can cause differences in expected time complexity and actual time taken to run could be a reason that the 10,000 element list would take 100 second to sort.
